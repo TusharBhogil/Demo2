@@ -1,0 +1,6 @@
+public class Studen{
+
+      public static void main string[args](){
+            System.out.println("Tgis is Student class File");
+   }
+}
